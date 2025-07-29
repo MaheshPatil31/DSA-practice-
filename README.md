@@ -7,6 +7,7 @@ This repository contains my C++ solutions to LeetCode problems.
 - [189. Rotate Array](189-Rotate_array.cpp)
 - [283. Move Zeroes](283-Move_Zeroes.cpp)
 - [217. Contains Duplicate](217-Contains_Duplicate.cpp)
+- [001. Two Sum](001-Two_sum.cpp)
 
 ## 🟡 Medium
 <!-- Add medium-level problems here later -->
