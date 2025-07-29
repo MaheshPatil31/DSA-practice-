@@ -5,6 +5,7 @@ This repository contains my C++ solutions to LeetCode problems.
 ## ✅ Easy
 - [027. Remove Element](027-Remove_Element.cpp)
 - [189. Rotate Array](189-Rotate_array.cpp)
+- [283. Move Zeroes](283-Move_Zeroes.cpp)
 
 ## 🟡 Medium
 <!-- Add medium-level problems here later -->
