@@ -20,6 +20,8 @@ This repository contains my C++ solutions to LeetCode problems.
 122-Best_Time_to_Buy_and_Sell_Stock_II.cpp)
 - [334. Increasing Triplet Subsequence](
   334-Increasing_Triplet_Subsequence.cpp)
+-[006. Zigzag Conversion](
+  006-Zigzag_Conversion.cpp)
 ## 🔴 Hard
 <!-- Add hard-level problems here later -->
 
