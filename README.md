@@ -14,7 +14,7 @@ This repository contains my C++ solutions to LeetCode problems.
 - [121. Best Time to buy and Sell Stock](121-Best_Time_to_Buy_and_Sell_Stock.cpp)
 - [392. Is Subsequence](392-Is_Subsequence.cpp)
 - [125. Valid Palindrome](125-Valid_Palindrome.cpp)
-
+- [014. Longest Common Prefix](014-Longest_Common_Prefix.cpp)
 ## 🟡 Medium
 - [122. Best Time to Buy and Sell Stock II](
 122-Best_Time_to_Buy_and_Sell_Stock_II.cpp)
