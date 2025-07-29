@@ -16,7 +16,8 @@ This repository contains my C++ solutions to LeetCode problems.
 ## 🟡 Medium
 - [122. Best Time to Buy and Sell Stock II](
 122-Best_Time_to_Buy_and_Sell_Stock_II.cpp)
-  
+  [334. Increasing Triplet Subsequence](
+  334-Increasing_Triplet_Subsequence.cpp)
 ## 🔴 Hard
 <!-- Add hard-level problems here later -->
 
