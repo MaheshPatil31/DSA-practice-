@@ -13,8 +13,9 @@ This repository contains my C++ solutions to LeetCode problems.
 - [2348. Number of Zero-filed Sub Arrays](2348-Number_of_Zero_Filled_Subarrays.cpp)
 
 ## 🟡 Medium
-<!-- Add medium-level problems here later -->
-
+- [122. Best Time to Buy and Sell Stock II](
+122-Best_Time_to_Buy_and_Sell_Stock_II.cpp)
+  
 ## 🔴 Hard
 <!-- Add hard-level problems here later -->
 
