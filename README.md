@@ -16,12 +16,9 @@ This repository contains my C++ solutions to LeetCode problems.
 - [125. Valid Palindrome](125-Valid_Palindrome.cpp)
 - [014. Longest Common Prefix](014-Longest_Common_Prefix.cpp)
 ## 🟡 Medium
-- [122. Best Time to Buy and Sell Stock II](
-122-Best_Time_to_Buy_and_Sell_Stock_II.cpp)
-- [334. Increasing Triplet Subsequence](
-  334-Increasing_Triplet_Subsequence.cpp)
--[006. Zigzag Conversion](
-  006-Zigzag_Conversion.cpp)
+- [122. Best Time to Buy and Sell Stock II](122-Best_Time_to_Buy_and_Sell_Stock_II.cpp)
+- [334. Increasing Triplet Subsequence](334-Increasing_Triplet_Subsequence.cpp)
+- [006. Zigzag Conversion](006-Zigzag_Conversion.cpp)
 ## 🔴 Hard
 <!-- Add hard-level problems here later -->
 
