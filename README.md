@@ -19,7 +19,7 @@ This repository contains my C++ solutions to LeetCode problems.
 - [122. Best Time to Buy and Sell Stock II](122-Best_Time_to_Buy_and_Sell_Stock_II.cpp)
 - [334. Increasing Triplet Subsequence](334-Increasing_Triplet_Subsequence.cpp)
 - [006. Zigzag Conversion](006-Zigzag_Conversion.cpp)
-- [151. Reverse Words in a String.cpp](151-Reverse_Words_in_a_String.cpp)
+- [151. Reverse Words in a String](151-Reverse_Words_in_a_String.cpp)
 ## 🔴 Hard
 <!-- Add hard-level problems here later -->
 
