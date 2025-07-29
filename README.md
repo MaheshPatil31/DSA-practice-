@@ -12,6 +12,7 @@ This repository contains my C++ solutions to LeetCode problems.
 - [026. Remove Duplicates from Sorted Array](026-Remove_Duplicates_from_Sorted_Array.cpp)
 - [2348. Number of Zero-filed Sub Arrays](2348-Number_of_Zero_Filled_Subarrays.cpp)
 - [121. Best Time to buy and Sell Stock](121-Best_Time_to_Buy_and_Sell_Stock.cpp)
+- [392. Is Subsequence](392-Is_Subsequence.cpp)
 
 ## 🟡 Medium
 - [122. Best Time to Buy and Sell Stock II](
