@@ -9,6 +9,7 @@ This repository contains my C++ solutions to LeetCode problems.
 - [217. Contains Duplicate](217-Contains_Duplicate.cpp)
 - [001. Two Sum](001-Two_sum.cpp)
 - [169. Majority Element](169-Majority_Element.cpp)
+- [026. Remove Duplicates from Sorted Array](026-Remove_Duplicates_from_Sorted_Array.cpp)
 
 ## 🟡 Medium
 <!-- Add medium-level problems here later -->
