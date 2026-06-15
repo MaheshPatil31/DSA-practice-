@@ -23,6 +23,7 @@ This repository contains my C++ solutions to LeetCode problems.
 - [006. Zigzag Conversion](006-Zigzag_Conversion.cpp)
 - [151. Reverse Words in a String](151-Reverse_Words_in_a_String.cpp)
 - [049. Group Anagrams](049_Group_Anagrams.cpp).
+- [347. Top_K_Frequent_Elements.cpp](347-Top_K_Frequent_Elements.cpp)
 ## 🔴 Hard
 <!-- Add hard-level problems here later -->
 
