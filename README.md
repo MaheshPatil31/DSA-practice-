@@ -24,7 +24,7 @@ This repository contains my C++ solutions to LeetCode problems.
 - [006. Zigzag Conversion](006-Zigzag_Conversion.cpp)
 - [151. Reverse Words in a String](151-Reverse_Words_in_a_String.cpp)
 - [049. Group Anagrams](049_Group_Anagrams.cpp).
-- [347. Top_K_Frequent_Elements.cpp](347-Top_K_Frequent_Elements.cpp)
+- [347. Top_K_Frequent_Elements](347-Top_K_Frequent_Elements.cpp)
 - [238. Product of Array Except Self](238-Product_of_Array_Except_Self.cpp)
 - [167-Two_Sum_II_Input_Array_Is_Sorted](167-Two_Sum_II_Input_Array_Is_Sorted.cpp)
 ## 🔴 Hard
