@@ -26,10 +26,10 @@ This repository contains my C++ solutions to LeetCode problems.
 - [049. Group Anagrams](049_Group_Anagrams.cpp).
 - [347. Top_K_Frequent_Elements](347-Top_K_Frequent_Elements.cpp)
 - [238. Product of Array Except Self](238-Product_of_Array_Except_Self.cpp)
-- [167-Two_Sum_II_Input_Array_Is_Sorted](167-Two_Sum_II_Input_Array_Is_Sorted.cpp)
+- [167. Two Sum II Input Array Is Sorted](167-Two_Sum_II_Input_Array_Is_Sorted.cpp)
 - [11. Container With Most Water](011-Contaner_With_Moist_Water.cpp)
 ## 🔴 Hard
-<!-- Add hard-level problems here later -->
+- [150. Trapping rain water](150-Trapping_Rain_Water.cpp)
 
 ---
 
