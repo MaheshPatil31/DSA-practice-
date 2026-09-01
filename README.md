@@ -18,6 +18,7 @@ This repository contains my C++ solutions to LeetCode problems.
 - [136 Single Number](136-Single_Number.cpp)
 - [191. Number of 1 bits](191-Number_of_1_bits.cpp)
 - [125. Valid Palindrome](125-Valid_Palindrome.cpp)
+- [20. Valid Parentheses](20-Valid_parentheses.cpp)
 ## 🟡 Medium
 - [122. Best Time to Buy and Sell Stock II](122-Best_Time_to_Buy_and_Sell_Stock_II.cpp)
 - [334. Increasing Triplet Subsequence](334-Increasing_Triplet_Subsequence.cpp)
