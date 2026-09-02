@@ -29,6 +29,7 @@ This repository contains my C++ solutions to LeetCode problems.
 - [238. Product of Array Except Self](238-Product_of_Array_Except_Self.cpp)
 - [167. Two Sum II Input Array Is Sorted](167-Two_Sum_II_Input_Array_Is_Sorted.cpp)
 - [11. Container With Most Water](011-Contaner_With_Moist_Water.cpp)
+- [155. Min stack ](155-Min_stack.cpp)
 ## 🔴 Hard
 - [150. Trapping rain water](150-Trapping_Rain_Water.cpp)
 
